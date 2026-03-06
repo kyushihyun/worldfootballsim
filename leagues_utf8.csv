@@ -1,0 +1,410 @@
+﻿Confederation,Country,Level,League,ClubsObserved,ClubsFixed,IsRegionalLevel,LeagueIsDivision,LeagueIsMergedRegionalCompetition,DivisionsCountFixed,DivisionSizesFixed,DivisionNamesFixed,ClubsFixedTotal,StructureSources
+Africa,Algeria,1,Ligue 1,16,16,FALSE,TRUE,FALSE,1,16,Ligue 1,16,single league
+Africa,Algeria,2,Ligue 2,32,32,TRUE,FALSE,TRUE,2,"16,16",Ligue 2 - Regional Division 1 | Ligue 2 - Regional Division 2,32,derived from dataset
+Africa,Angola,1,Girabola,16,16,FALSE,TRUE,FALSE,1,16,Girabola,16,single league
+Africa,Benin,1,Championnat National,18,18,FALSE,TRUE,FALSE,1,18,Championnat National,18,single league
+Africa,Botswana,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Africa,Burkina Faso,1,Ligue 1,16,16,FALSE,TRUE,FALSE,1,16,Ligue 1,16,single league
+Africa,Burundi,1,Ligue A,16,16,FALSE,TRUE,FALSE,1,16,Ligue A,16,single league
+Africa,Cabo Verde,1,Campeonato Nacional,10,10,FALSE,TRUE,FALSE,1,10,Campeonato Nacional,10,single league
+Africa,Cameroon,1,Elite One,14,14,FALSE,TRUE,FALSE,1,14,Elite One,14,single league
+Africa,Cameroon,2,Elite Two,16,16,FALSE,TRUE,FALSE,1,16,Elite Two,16,single league
+Africa,Congo,1,Ligue 1,14,14,FALSE,TRUE,FALSE,1,14,Ligue 1,14,single league
+Africa,Congo DR,1,Ligue 1,31,31,TRUE,FALSE,TRUE,2,"16,15",Ligue 1 - Regional Division 1 | Ligue 1 - Regional Division 2,31,derived from dataset
+Africa,Côte d'Ivoire,1,Ligue 1,16,16,FALSE,TRUE,FALSE,1,16,Ligue 1,16,single league
+Africa,Djibouti,1,Division 1,10,10,FALSE,TRUE,FALSE,1,10,Division 1,10,single league
+Africa,Egypt,1,Premier League,21,21,FALSE,TRUE,FALSE,1,21,Premier League,21,single league
+Africa,Egypt,2,Second Division A,18,18,FALSE,TRUE,FALSE,1,18,Second Division A,18,single league
+Africa,Eswatini,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Africa,Ethiopia,1,Premier League,20,20,FALSE,TRUE,FALSE,1,20,Premier League,20,single league
+Africa,Ethiopia,2,Higher League,21,21,FALSE,TRUE,FALSE,1,21,Higher League,21,single league
+Africa,Gabon,1,Championnat D1,13,13,FALSE,TRUE,FALSE,1,13,Championnat D1,13,single league
+Africa,Gambia,1,GFA League,16,16,FALSE,TRUE,FALSE,1,16,GFA League,16,single league
+Africa,Ghana,1,Premier League,18,18,FALSE,TRUE,FALSE,1,18,Premier League,18,single league
+Africa,Ghana,2,Division One,48,48,TRUE,FALSE,TRUE,3,"16,16,16",Division One - Regional Division 1 | Division One - Regional Division 2 | Division One - Regional Division 3,48,derived from dataset
+Africa,Guinea,1,Ligue 1,14,14,FALSE,TRUE,FALSE,1,14,Ligue 1,14,single league
+Africa,Kenya,1,FKF Premier League,18,18,FALSE,TRUE,FALSE,1,18,FKF Premier League,18,single league
+Africa,Kenya,2,Super League,20,20,FALSE,TRUE,FALSE,1,20,Super League,20,single league
+Africa,Lesotho,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Africa,Liberia,1,LFA First Division,15,15,FALSE,TRUE,FALSE,1,15,LFA First Division,15,single league
+Africa,Libya,1,Premier League,36,36,TRUE,FALSE,TRUE,2,"18,18",Premier League - Regional Division 1 | Premier League - Regional Division 2,36,derived from dataset
+Africa,Madagascar,1,Pro League,15,15,FALSE,TRUE,FALSE,1,15,Pro League,15,single league
+Africa,Malawi,1,Super League,16,16,FALSE,TRUE,FALSE,1,16,Super League,16,single league
+Africa,Mali,1,Première Division,14,14,FALSE,TRUE,FALSE,1,14,Première Division,14,single league
+Africa,Mauritania,1,Premier League,14,14,FALSE,TRUE,FALSE,1,14,Premier League,14,single league
+Africa,Mauritius,1,Mauritian League,10,10,FALSE,TRUE,FALSE,1,10,Mauritian League,10,single league
+Africa,Morocco,1,Botola Pro,16,16,FALSE,TRUE,FALSE,1,16,Botola Pro,16,single league
+Africa,Morocco,2,Botola 2,16,16,FALSE,TRUE,FALSE,1,16,Botola 2,16,single league
+Africa,Mozambique,1,Moçambola,14,14,FALSE,TRUE,FALSE,1,14,Moçambola,14,single league
+Africa,Niger,1,Super Ligue,16,16,FALSE,TRUE,FALSE,1,16,Super Ligue,16,single league (added nation)
+Africa,Nigeria,1,NPFL,20,20,FALSE,TRUE,FALSE,1,20,NPFL,20,single league
+Africa,Rwanda,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Africa,Réunion,1,Regionale 1,14,14,FALSE,TRUE,FALSE,1,14,Regionale 1,14,single league
+Africa,Senegal,1,Ligue 1,16,16,FALSE,TRUE,FALSE,1,16,Ligue 1,16,single league
+Africa,Seychelles,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league (replenished missing clubs)
+Africa,Sierra Leone,1,Premier League,18,18,FALSE,TRUE,FALSE,1,18,Premier League,18,single league
+Africa,Somalia,1,Somali Premier League,11,11,FALSE,TRUE,FALSE,1,11,Somali Premier League,11,single league
+Africa,South Africa,1,PSL,16,16,FALSE,TRUE,FALSE,1,16,PSL,16,single league
+Africa,South Africa,2,1st Division,16,16,FALSE,TRUE,FALSE,1,16,1st Division,16,single league
+Africa,Sudan,1,Sudani Premier League,24,24,FALSE,TRUE,FALSE,1,24,Sudani Premier League,24,single league
+Africa,São Tomé e Príncipe,1,Campeonato Nacional,16,16,FALSE,TRUE,FALSE,1,16,Campeonato Nacional,16,single league
+Africa,Tanzania,1,Ligi kuu Bara,16,16,FALSE,TRUE,FALSE,1,16,Ligi kuu Bara,16,single league
+Africa,Togo,1,Championnat National,14,14,FALSE,TRUE,FALSE,1,14,Championnat National,14,single league
+Africa,Tunisia,1,Ligue 1,16,16,FALSE,TRUE,FALSE,1,16,Ligue 1,16,single league
+Africa,Tunisia,2,Ligue 2,28,28,FALSE,TRUE,FALSE,1,28,Ligue 2,28,single league
+Africa,Uganda,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Africa,Zambia,1,Super League,18,18,FALSE,TRUE,FALSE,1,18,Super League,18,single league
+Africa,Zimbabwe,1,Premier Soccer League,18,18,FALSE,TRUE,FALSE,1,18,Premier Soccer League,18,single league
+Asia,Australia,1,A-League Men,12,12,FALSE,TRUE,FALSE,1,12,A-League Men,12,single league
+Asia,Australia,2,Capital Territory NPL,8,8,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,2,New South Wales NPL,16,16,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,2,Northern NSW NPL,12,12,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,2,Queensland NPL,12,12,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,2,Victoria NPL,14,14,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,2,Western Australia NPL,12,12,TRUE,TRUE,FALSE,6,"8,16,12,12,14,12",Capital Territory NPL | New South Wales NPL | Northern NSW NPL | Queensland NPL | Victoria NPL | Western Australia NPL,74,opta league counts
+Asia,Australia,3,Capital Territory NPL 2,4,4,TRUE,TRUE,FALSE,5,"4,14,7,9,12",Capital Territory NPL 2 | NSW League One | Queensland Premier League | Victoria PL 1 | Western Australia State League 1,46,opta league counts
+Asia,Australia,3,NSW League One,14,14,TRUE,TRUE,FALSE,5,"4,14,7,9,12",Capital Territory NPL 2 | NSW League One | Queensland Premier League | Victoria PL 1 | Western Australia State League 1,46,opta league counts
+Asia,Australia,3,Queensland Premier League,7,7,TRUE,TRUE,FALSE,5,"4,14,7,9,12",Capital Territory NPL 2 | NSW League One | Queensland Premier League | Victoria PL 1 | Western Australia State League 1,46,opta league counts
+Asia,Australia,3,Victoria PL 1,9,9,TRUE,TRUE,FALSE,5,"4,14,7,9,12",Capital Territory NPL 2 | NSW League One | Queensland Premier League | Victoria PL 1 | Western Australia State League 1,46,opta league counts
+Asia,Australia,3,Western Australia State League 1,12,12,TRUE,TRUE,FALSE,5,"4,14,7,9,12",Capital Territory NPL 2 | NSW League One | Queensland Premier League | Victoria PL 1 | Western Australia State League 1,46,opta league counts
+Asia,Bahrain,1,Premier League,12,12,FALSE,TRUE,FALSE,1,12,Premier League,12,single league
+Asia,Bahrain,2,Second Division,12,12,FALSE,TRUE,FALSE,1,12,Second Division,12,single league
+Asia,Bangladesh,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+Asia,Bhutan,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league (replenished missing clubs)
+Asia,Brunei Darussalam,1,Super League,10,10,FALSE,TRUE,FALSE,1,10,Super League,10,single league
+Asia,Cambodia,1,Premier League,11,11,FALSE,TRUE,FALSE,1,11,Premier League,11,single league
+Asia,China PR,1,Chinese Super League,16,16,FALSE,TRUE,FALSE,1,16,Chinese Super League,16,single league
+Asia,China PR,2,Chinese Football League 1,16,16,FALSE,TRUE,FALSE,1,16,Chinese Football League 1,16,single league
+Asia,China PR,3,Chinese Football League 2,24,24,FALSE,TRUE,FALSE,1,24,Chinese Football League 2,24,single league
+Asia,Chinese Taipei,1,Taiwan Football Premier League,8,8,FALSE,TRUE,FALSE,1,8,Taiwan Football Premier League,8,single league
+Asia,Guam,1,G League,14,14,FALSE,TRUE,FALSE,1,14,G League,14,single league
+Asia,Hong Kong,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+Asia,Hong Kong,2,HKFA 1st Division,14,14,FALSE,TRUE,FALSE,1,14,HKFA 1st Division,14,single league
+Asia,India,1,Indian Super League,13,13,FALSE,TRUE,FALSE,1,13,Indian Super League,13,single league
+Asia,India,2,I-League,12,12,FALSE,TRUE,FALSE,1,12,I-League,12,single league
+Asia,India,3,I-League 2,9,9,FALSE,TRUE,FALSE,1,9,I-League 2,9,single league
+Asia,India,4,Calcutta Premier Division,18,18,FALSE,TRUE,FALSE,1,18,Calcutta Premier Division,18,single league
+Asia,Indonesia,1,Liga Nusantara,22,22,FALSE,TRUE,FALSE,1,22,Liga Nusantara,22,single league
+Asia,Indonesia,2,Super League,18,18,FALSE,TRUE,FALSE,1,18,Super League,18,single league
+Asia,Indonesia,3,Championship,20,20,FALSE,TRUE,FALSE,1,20,Championship,20,single league
+Asia,Iran,1,Persian Gulf Pro League,16,16,FALSE,TRUE,FALSE,1,16,Persian Gulf Pro League,16,single league
+Asia,Iran,2,Azadegan League,18,18,FALSE,TRUE,FALSE,1,18,Azadegan League,18,single league
+Asia,Iraq,1,Iraqi League,20,20,FALSE,TRUE,FALSE,1,20,Iraqi League,20,single league
+Asia,Japan,1,J1 League,20,20,FALSE,TRUE,FALSE,1,20,J1 League,20,single league
+Asia,Japan,2,J2 League,20,20,FALSE,TRUE,FALSE,1,20,J2 League,20,single league
+Asia,Japan,3,J3 League,20,20,FALSE,TRUE,FALSE,1,20,J3 League,20,single league
+Asia,Japan,4,Japan Football League,16,16,FALSE,TRUE,FALSE,1,16,Japan Football League,16,single league
+Asia,Japan,5,Regional Leagues,80,80,TRUE,FALSE,TRUE,5,"16,16,16,16,16",Regional Division 1 | Regional Division 2 | Regional Division 3 |Regional Division 4 | Regional Division 5,80,derived from dataset
+Asia,Jordan,1,League,10,10,FALSE,TRUE,FALSE,1,10,League,10,single league
+Asia,Jordan,2,1st Division,14,14,FALSE,TRUE,FALSE,1,14,1st Division,14,single league
+Asia,Korea Republic,1,K League 1,12,12,FALSE,TRUE,FALSE,1,12,K League 1,12,single league
+Asia,Korea Republic,2,K League 2,15,15,FALSE,TRUE,FALSE,1,15,K League 2,15,single league
+Asia,Korea Republic,3,K3 League,15,15,FALSE,TRUE,FALSE,1,15,K3 League,15,single league
+Asia,Korea Republic,4,K4 League,11,11,FALSE,TRUE,FALSE,1,11,K4 League,11,single league
+Asia,Kuwait,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+Asia,Kuwait,2,Division 1,8,8,FALSE,TRUE,FALSE,1,8,Division 1,8,single league
+Asia,Kyrgyz Republic,1,Premier League,14,14,FALSE,TRUE,FALSE,1,14,Premier League,14,single league
+Asia,Laos,1,Lao League,10,10,FALSE,TRUE,FALSE,1,10,Lao League,10,single league (replenished missing clubs)
+Asia,Lebanon,1,Premier League,12,12,FALSE,TRUE,FALSE,1,12,Premier League,12,single league
+Asia,Macao,1,Primeira Divisão,10,10,FALSE,TRUE,FALSE,1,10,Primeira Divisão,10,single league
+Asia,Malaysia,1,Super League,13,13,FALSE,TRUE,FALSE,1,13,Super League,13,single league
+Asia,Malaysia,2,Liga A1,16,16,FALSE,TRUE,FALSE,1,16,Liga A1,16,single league
+Asia,Mongolia,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+Asia,Myanmar,1,National League,12,12,FALSE,TRUE,FALSE,1,12,National League,12,single league
+Asia,Nepal,1,Super League,7,7,FALSE,TRUE,FALSE,1,7,Super League,7,single league
+Asia,Oman,1,Professional League,14,14,FALSE,TRUE,FALSE,1,14,Professional League,14,single league
+Asia,Oman,2,First Division League,8,8,FALSE,TRUE,FALSE,1,8,First Division League,8,single league
+Asia,Philippines,1,PFL,11,11,FALSE,TRUE,FALSE,1,11,PFL,11,single league
+Asia,Qatar,1,Stars League,12,12,FALSE,TRUE,FALSE,1,12,Stars League,12,single league
+Asia,Qatar,2,Second Division,8,8,FALSE,TRUE,FALSE,1,8,Second Division,8,single league
+Asia,Saudi Arabia,1,Saudi League,18,18,FALSE,TRUE,FALSE,1,18,Saudi League,18,single league
+Asia,Saudi Arabia,2,First Division League,18,18,FALSE,TRUE,FALSE,1,18,First Division League,18,single league
+Asia,Saudi Arabia,3,Division 2,32,32,TRUE,FALSE,TRUE,2,"16,16",Division 2 - Regional Division 1 | Division 2 - Regional Division 2,32,derived from dataset
+Asia,Singapore,1,Premier League,8,8,FALSE,TRUE,FALSE,1,8,Premier League,8,single league
+Asia,Syria,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Asia,Tajikistan,1,Vysshaya Liga,12,12,FALSE,TRUE,FALSE,1,12,Vysshaya Liga,12,single league
+Asia,Thailand,1,Thai League 1,16,16,FALSE,TRUE,FALSE,1,16,Thai League 1,16,single league
+Asia,Thailand,2,Thai League 2,18,18,FALSE,TRUE,FALSE,1,18,Thai League 2,18,single league
+Asia,Thailand,3,Thai League 3,68,68,TRUE,FALSE,TRUE,4,"17,17,17,17",Thai League 3 - Regional Division 1 | Thai League 3 - Regional Division 2 | Thai League 3 - Regional Division 3 | Thai League 3 - Regional Division 4,68,derived from dataset
+Asia,Turkmenistan,1,Ýokary Liga,8,8,FALSE,TRUE,FALSE,1,8,Ýokary Liga,8,single league
+Asia,United Arab Emirates,1,Pro League,14,14,FALSE,TRUE,FALSE,1,14,Pro League,14,single league
+Asia,United Arab Emirates,2,Division 1,15,15,FALSE,TRUE,FALSE,1,15,Division 1,15,single league
+Asia,Uzbekistan,1,Super League,16,16,FALSE,TRUE,FALSE,1,16,Super League,16,single league
+Asia,Uzbekistan,2,Pro League,6,6,FALSE,TRUE,FALSE,1,6,Pro League,6,single league
+Asia,Vietnam,1,V.League 1,14,14,FALSE,TRUE,FALSE,1,14,V.League 1,14,single league
+Asia,Vietnam,2,V.League 2,12,12,FALSE,TRUE,FALSE,1,12,V.League 2,12,single league
+Asia,Vietnam,3,Second Division,11,11,FALSE,TRUE,FALSE,1,11,Second Division,11,single league
+Europe,Albania,1,Superliga,10,10,FALSE,TRUE,FALSE,1,10,Superliga,10,single league
+Europe,Albania,2,1st Division,12,12,FALSE,TRUE,FALSE,1,12,1st Division,12,single league
+Europe,Albania,3,2nd Division,23,23,FALSE,TRUE,FALSE,1,23,2nd Division,23,single league
+Europe,Andorra,1,1a Divisió,10,10,FALSE,TRUE,FALSE,1,10,1a Divisió,10,single league
+Europe,Andorra,2,2a Divisió,8,8,FALSE,TRUE,FALSE,1,8,2a Divisió,8,single league
+Europe,Armenia,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+Europe,Armenia,2,First League,16,16,FALSE,TRUE,FALSE,1,16,First League,16,single league
+Europe,Austria,1,Bundesliga,12,12,FALSE,TRUE,FALSE,1,12,Bundesliga,12,single league
+Europe,Austria,2,2. Liga,16,16,FALSE,TRUE,FALSE,1,16,2. Liga,16,single league
+Europe,Austria,3,Regionalliga,50,50,TRUE,FALSE,TRUE,3,"17,17,16",Regionalliga - Regional Division 1 | Regionalliga - Regional Division 2 | Regionalliga - Regional Division 3,50,derived from dataset
+Europe,Austria,4,Landesliga,140,140,TRUE,FALSE,TRUE,8,"18,18,18,18,17,17,17,17",Landesliga - Regional Division 1 | Landesliga - Regional Division 2 | Landesliga - Regional Division 3 | Landesliga - Regional Division 4 | Landesliga - Regional Division 5 | Landesliga - Regional Division 6 | Landesliga - Regional Division 7 | Landesliga - Regional Division 8,140,derived from dataset
+Europe,Azerbaijan,1,Premyer Liqa,12,12,FALSE,TRUE,FALSE,1,12,Premyer Liqa,12,single league
+Europe,Azerbaijan,2,Birinci Dasta,10,10,FALSE,TRUE,FALSE,1,10,Birinci Dasta,10,single league
+Europe,Belarus,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Europe,Belarus,2,1. Division,18,18,FALSE,TRUE,FALSE,1,18,1. Division,18,single league
+Europe,Belgium,1,First Division A,16,16,FALSE,TRUE,FALSE,1,16,First Division A,16,single league
+Europe,Belgium,2,Challenger Pro League,17,17,FALSE,TRUE,FALSE,1,17,Challenger Pro League,17,single league
+Europe,Belgium,3,Division 1,28,32,TRUE,FALSE,TRUE,2,"16,16",VV | ACFF,32,belgian league system
+Europe,Belgium,4,Division 2,50,48,TRUE,FALSE,TRUE,3,"16,16,16",A | B | C,48,belgian league system
+Europe,Belgium,5,Division 3,65,64,TRUE,FALSE,TRUE,4,"16,16,16,16",A | B | C | D,64,belgian league system
+Europe,Belgium,6,Provincial,160,160,TRUE,FALSE,TRUE,9,"18,18,18,18,18,18,18,17,17",Provincial - Regional Division 1 | Provincial - Regional Division 2 | Provincial - Regional Division 3 | Provincial - Regional Division 4 | Provincial - Regional Division 5 | Provincial - Regional Division 6 | Provincial - Regional Division 7 | Provincial - Regional Division 8 | Provincial - Regional Division 9,160,derived from dataset
+Europe,Bosnia and Herzegovina,1,Premijer Liga,10,10,FALSE,TRUE,FALSE,1,10,Premijer Liga,10,single league
+Europe,Bosnia and Herzegovina,2,1st League,28,28,FALSE,TRUE,FALSE,1,28,1st League,28,single league
+Europe,Bulgaria,1,First League,16,16,FALSE,TRUE,FALSE,1,16,First League,16,single league
+Europe,Bulgaria,2,Second League,18,18,FALSE,TRUE,FALSE,1,18,Second League,18,single league
+Europe,Bulgaria,3,Third League,66,66,TRUE,FALSE,TRUE,4,"17,17,16,16",Third League - Regional Division 1 | Third League - Regional Division 2 | Third League - Regional Division 3 | Third League - Regional Division 4,66,derived from dataset
+Europe,Croatia,1,HNL,10,10,FALSE,TRUE,FALSE,1,10,HNL,10,single league
+Europe,Croatia,2,First NL,12,12,FALSE,TRUE,FALSE,1,12,First NL,12,single league
+Europe,Croatia,3,Second NL,16,16,FALSE,TRUE,FALSE,1,16,Second NL,16,single league
+Europe,Croatia,4,Third NL,80,80,TRUE,FALSE,TRUE,5,"16,16,16,16,16",Third NL - Regional Division 1 | Third NL - Regional Division 2 | Third NL - Regional Division 3 | Third NL - Regional Division 4 | Third NL - Regional Division 5,80,derived from dataset
+Europe,Cyprus,1,1. Division,14,14,FALSE,TRUE,FALSE,1,14,1. Division,14,single league
+Europe,Cyprus,2,2. Division,16,16,FALSE,TRUE,FALSE,1,16,2. Division,16,single league
+Europe,Cyprus,3,3. Division,16,16,FALSE,TRUE,FALSE,1,16,3. Division,16,single league
+Europe,Czechia,1,Czech Liga,16,16,FALSE,TRUE,FALSE,1,16,Czech Liga,16,single league
+Europe,Czechia,2,FNL,16,16,FALSE,TRUE,FALSE,1,16,FNL,16,single league
+Europe,Czechia,3,3. liga,52,52,TRUE,FALSE,TRUE,3,"18,17,17",3. liga - Regional Division 1 | 3. liga - Regional Division 2 | 3. liga - Regional Division 3,52,derived from dataset
+Europe,Czechia,4,4. liga,96,96,TRUE,FALSE,TRUE,5,"20,19,19,19,19",4. liga - Regional Division 1 | 4. liga - Regional Division 2 | 4. liga - Regional Division 3 | 4. liga - Regional Division 4 | 4. liga - Regional Division 5,96,derived from dataset
+Europe,Denmark,1,Superliga,12,12,FALSE,TRUE,FALSE,1,12,Superliga,12,single league
+Europe,Denmark,2,1. Division,12,12,FALSE,TRUE,FALSE,1,12,1. Division,12,single league
+Europe,Denmark,3,2. Division,12,12,FALSE,TRUE,FALSE,1,12,2. Division,12,single league
+Europe,Denmark,4,3. Division,12,12,FALSE,TRUE,FALSE,1,12,3. Division,12,single league
+Europe,Denmark,5,Denmark Series,40,40,TRUE,FALSE,TRUE,2,"20,20",Denmark Series - Regional Division 1 | Denmark Series - Regional Division 2,40,derived from dataset
+Europe,England,1,Premier League,20,20,FALSE,TRUE,FALSE,1,20,Premier League,20,single league
+Europe,England,2,Championship,24,24,FALSE,TRUE,FALSE,1,24,Championship,24,single league
+Europe,England,3,League One,24,24,FALSE,TRUE,FALSE,1,24,League One,24,single league
+Europe,England,4,League Two,24,24,FALSE,TRUE,FALSE,1,24,League Two,24,single league
+Europe,England,5,National League,24,24,FALSE,TRUE,FALSE,1,24,National League,24,single league
+Europe,England,6,National League N / S,48,48,TRUE,FALSE,TRUE,2,"24,24",National League North | National League South,48,wikipedia season pages
+Europe,England,7,Non League Premier,87,88,TRUE,FALSE,TRUE,4,"22,22,22,22",Northern Premier League Premier Division | Southern League Premier Division Central | Southern League Premier Division South | Isthmian League Premier Division,88,wikipedia season pages
+Europe,Estonia,1,Premium liiga,9,9,FALSE,TRUE,FALSE,1,9,Premium liiga,9,single league
+Europe,Estonia,2,Esiliiga A,10,10,FALSE,TRUE,FALSE,1,10,Esiliiga A,10,single league
+Europe,Estonia,3,Esiliiga B,10,10,FALSE,TRUE,FALSE,1,10,Esiliiga B,10,single league
+Europe,Faroe Islands,1,Meistaradeildin,10,10,FALSE,TRUE,FALSE,1,10,Meistaradeildin,10,single league
+Europe,Faroe Islands,2,1. Deild,10,10,FALSE,TRUE,FALSE,1,10,1. Deild,10,single league
+Europe,Faroe Islands,3,2. Deild,9,9,FALSE,TRUE,FALSE,1,9,2. Deild,9,single league
+Europe,Finland,1,Veikkausliiga,12,12,FALSE,TRUE,FALSE,1,12,Veikkausliiga,12,single league
+Europe,Finland,2,Ykkösliiga,10,10,FALSE,TRUE,FALSE,1,10,Ykkösliiga,10,single league
+Europe,Finland,3,Ykkönen,11,11,FALSE,TRUE,FALSE,1,11,Ykkönen,11,single league
+Europe,Finland,4,Kakkonen,30,30,TRUE,FALSE,TRUE,2,"15,15",Kakkonen - Regional Division 1 | Kakkonen - Regional Division 2,30,derived from dataset
+Europe,Finland,5,Kolmonen,85,85,TRUE,FALSE,TRUE,5,"17,17,17,17,17",Kolmonen - Regional Division 1 | Kolmonen - Regional Division 2 | Kolmonen - Regional Division 3 | Kolmonen - Regional Division 4 | Kolmonen - Regional Division 5,85,derived from dataset
+Europe,France,1,Ligue 1,18,18,FALSE,TRUE,FALSE,1,18,Ligue 1,18,single league
+Europe,France,2,Ligue 2,18,18,FALSE,TRUE,FALSE,1,18,Ligue 2,18,single league
+Europe,France,3,National 1,18,18,FALSE,TRUE,FALSE,1,18,National 1,18,single league
+Europe,France,4,National 2,48,48,TRUE,FALSE,TRUE,3,"16,16,16",Group A | Group B | Group C,48,wikipedia national 2
+Europe,France,5,National 3,112,112,TRUE,FALSE,TRUE,8,"14,14,14,14,14,14,14,14",Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H,112,wikipedia national 3
+Europe,Georgia,1,Erovnuli Liga,10,10,FALSE,TRUE,FALSE,1,10,Erovnuli Liga,10,single league
+Europe,Georgia,2,Erovnuli Liga 2,10,10,FALSE,TRUE,FALSE,1,10,Erovnuli Liga 2,10,single league
+Europe,Georgia,3,Liga 3,16,16,FALSE,TRUE,FALSE,1,16,Liga 3,16,single league
+Europe,Germany,1,Bundesliga,18,18,FALSE,TRUE,FALSE,1,18,Bundesliga,18,single league
+Europe,Germany,2,2. Bundesliga,18,18,FALSE,TRUE,FALSE,1,18,2. Bundesliga,18,single league
+Europe,Germany,3,3. Liga,20,20,FALSE,TRUE,FALSE,1,20,3. Liga,20,single league
+Europe,Germany,4,Regionalliga,90,90,TRUE,FALSE,TRUE,5,"18,18,18,18,18",Regionalliga Nord | Regionalliga Nordost | Regionalliga West | Regionalliga Südwest | Regionalliga Bayern,90,wikipedia regionalliga
+Europe,Germany,5,Oberliga,239,239,TRUE,FALSE,TRUE,14,"18,17,17,17,17,17,17,17,17,17,17,17,17,17",Oberliga - Regional Division 1 | Oberliga - Regional Division 2 | Oberliga - Regional Division 3 | Oberliga - Regional Division 4 | Oberliga - Regional Division 5 | Oberliga - Regional Division 6 | Oberliga - Regional Division 7 | Oberliga - Regional Division 8 | Oberliga - Regional Division 9 | Oberliga - Regional Division 10 | Oberliga - Regional Division 11 | Oberliga - Regional Division 12 | Oberliga - Regional Division 13 | Oberliga - Regional Division 14,239,derived from dataset
+Europe,Germany,6,State Leagues,584,584,TRUE,FALSE,TRUE,32,"19,19,19,19,19,19,19,19,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18",State Leagues - Regional Division 1 | State Leagues - Regional Division 2 | State Leagues - Regional Division 3 | State Leagues - Regional Division 4 | State Leagues - Regional Division 5 | State Leagues - Regional Division 6 | State Leagues - Regional Division 7 | State Leagues - Regional Division 8 | State Leagues - Regional Division 9 | State Leagues - Regional Division 10 | State Leagues - Regional Division 11 | State Leagues - Regional Division 12 | State Leagues - Regional Division 13 | State Leagues - Regional Division 14 | State Leagues - Regional Division 15 | State Leagues - Regional Division 16 | State Leagues - Regional Division 17 | State Leagues - Regional Division 18 | State Leagues - Regional Division 19 | State Leagues - Regional Division 20 | State Leagues - Regional Division 21 | State Leagues - Regional Division 22 | State Leagues - Regional Division 23 | State Leagues - Regional Division 24 | State Leagues - Regional Division 25 | State Leagues - Regional Division 26 | State Leagues - Regional Division 27 | State Leagues - Regional Division 28 | State Leagues - Regional Division 29 | State Leagues - Regional Division 30 | State Leagues - Regional Division 31 | State Leagues - Regional Division 32,584,derived from dataset
+Europe,Gibraltar,1,Premier Division,12,12,FALSE,TRUE,FALSE,1,12,Premier Division,12,single league
+Europe,Greece,1,Super League 1,14,14,FALSE,TRUE,FALSE,1,14,Super League 1,14,single league
+Europe,Greece,2,Super League 2,20,20,FALSE,TRUE,FALSE,1,20,Super League 2,20,single league
+Europe,Greece,3,Gamma Ethniki,73,73,TRUE,FALSE,TRUE,5,"15,15,15,14,14",Gamma Ethniki - Regional Division 1 | Gamma Ethniki - Regional Division 2 | Gamma Ethniki - Regional Division 3 | Gamma Ethniki - Regional Division 4 | Gamma Ethniki - Regional Division 5,73,derived from dataset
+Europe,Hungary,1,NB I,12,12,FALSE,TRUE,FALSE,1,12,NB I,12,single league
+Europe,Hungary,2,NB II,16,16,FALSE,TRUE,FALSE,1,16,NB II,16,single league
+Europe,Hungary,3,NB III,64,64,TRUE,FALSE,TRUE,4,"16,16,16,16",NB III - Regional Division 1 | NB III - Regional Division 2 | NB III - Regional Division 3 | NB III - Regional Division 4,64,derived from dataset
+Europe,Iceland,1,Besta deild,12,12,FALSE,TRUE,FALSE,1,12,Besta deild,12,single league
+Europe,Iceland,2,1. Deild,12,12,FALSE,TRUE,FALSE,1,12,1. Deild,12,single league
+Europe,Iceland,3,2. Deild,10,10,FALSE,TRUE,FALSE,1,10,2. Deild,10,single league
+Europe,Iceland,4,3. Deild,12,12,FALSE,TRUE,FALSE,1,12,3. Deild,12,single league
+Europe,Iceland,5,4. Deild,10,10,FALSE,TRUE,FALSE,1,10,4. Deild,10,single league
+Europe,Israel,1,Ligat Ha'al,14,14,FALSE,TRUE,FALSE,1,14,Ligat Ha'al,14,single league
+Europe,Israel,2,Liga Leumit,16,16,FALSE,TRUE,FALSE,1,16,Liga Leumit,16,single league
+Europe,Israel,3,Liga Alef,32,32,TRUE,FALSE,TRUE,2,"16,16",Liga Alef - Regional Division 1 | Liga Alef - Regional Division 2,32,derived from dataset
+Europe,Israel,4,Liga Bet,64,64,TRUE,FALSE,TRUE,4,"16,16,16,16",Liga Bet - Regional Division 1 | Liga Bet - Regional Division 2 | Liga Bet - Regional Division 3 | Liga Bet - Regional Division 4,64,derived from dataset
+Europe,Italy,1,Serie A,20,20,FALSE,TRUE,FALSE,1,20,Serie A,20,single league
+Europe,Italy,2,Serie B,20,20,FALSE,TRUE,FALSE,1,20,Serie B,20,single league
+Europe,Italy,3,Serie C,60,60,TRUE,FALSE,TRUE,4,"15,15,15,15",Girone A | Girone B | Girone C | Girone D,60,wikipedia serie c
+Europe,Italy,5,Eccellenza,475,475,TRUE,FALSE,TRUE,26,"19,19,19,19,19,19,19,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18",A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z,475,derived from dataset
+Europe,Italy,4,Serie D,162,162,TRUE,FALSE,TRUE,9,"18,18,18,18,18,18,18,18,18",D1 | D2 | D3 | D4 | D5 | D6 | D7 | D8 | D9,162,derived from dataset
+Europe,Kazakhstan,1,Premier League,14,14,FALSE,TRUE,FALSE,1,14,Premier League,14,single league
+Europe,Kazakhstan,2,1. Division,14,14,FALSE,TRUE,FALSE,1,14,1. Division,14,single league
+Europe,Kosovo,1,Superliga,10,10,FALSE,TRUE,FALSE,1,10,Superliga,10,single league
+Europe,Latvia,1,Virsliga,9,9,FALSE,TRUE,FALSE,1,9,Virsliga,9,single league
+Europe,Latvia,2,1. Liga,14,14,FALSE,TRUE,FALSE,1,14,1. Liga,14,single league
+Europe,Lithuania,1,A Lyga,10,10,FALSE,TRUE,FALSE,1,10,A Lyga,10,single league
+Europe,Lithuania,2,1 Lyga,16,16,FALSE,TRUE,FALSE,1,16,1 Lyga,16,single league
+Europe,Luxembourg,1,National Division,16,16,FALSE,TRUE,FALSE,1,16,National Division,16,single league
+Europe,Luxembourg,2,Promotion d'Honneur,16,16,FALSE,TRUE,FALSE,1,16,Promotion d'Honneur,16,single league
+Europe,Luxembourg,3,1. Division,32,32,TRUE,FALSE,TRUE,2,"16,16",1. Division - Regional Division 1 | 1. Division - Regional Division 2,32,derived from dataset
+Europe,Malta,1,Premier League,12,12,FALSE,TRUE,FALSE,1,12,Premier League,12,single league
+Europe,Malta,2,Challenge League,16,16,FALSE,TRUE,FALSE,1,16,Challenge League,16,single league
+Europe,Malta,3,National Amateur League,14,14,FALSE,TRUE,FALSE,1,14,National Amateur League,14,single league
+Europe,Moldova,1,Super Liga,8,8,FALSE,TRUE,FALSE,1,8,Super Liga,8,single league
+Europe,Moldova,2,Liga 1,12,12,FALSE,TRUE,FALSE,1,12,Liga 1,12,single league
+Europe,Moldova,3,Liga 2,13,13,FALSE,TRUE,FALSE,1,13,Liga 2,13,single league
+Europe,Montenegro,1,First League,10,10,FALSE,TRUE,FALSE,1,10,First League,10,single league
+Europe,Montenegro,2,Second League,10,10,FALSE,TRUE,FALSE,1,10,Second League,10,single league
+Europe,Netherlands,1,Eredivisie,18,18,FALSE,TRUE,FALSE,1,18,Eredivisie,18,single league
+Europe,Netherlands,2,Eerste Divisie,20,20,FALSE,TRUE,FALSE,1,20,Eerste Divisie,20,single league
+Europe,Netherlands,3,Tweede Divisie,18,18,FALSE,TRUE,FALSE,1,18,Tweede Divisie,18,single league
+Europe,Netherlands,4,Derde Divisie,36,36,TRUE,FALSE,TRUE,2,"18,18",Zaterdag | Zondag,36,wikipedia derde divisie
+Europe,Netherlands,5,Vierde Divisie,64,64,TRUE,FALSE,TRUE,4,"16,16,16,16",A | B | C | D,64,vierde divisie info
+Europe,Netherlands,6,Eerste Klasse,111,111,TRUE,FALSE,TRUE,6,"19,19,19,18,18,18",A | B | C | D | E | F,111,derived from dataset
+Europe,North Macedonia,1,First League,12,12,FALSE,TRUE,FALSE,1,12,First League,12,single league
+Europe,North Macedonia,2,Second League,16,16,FALSE,TRUE,FALSE,1,16,Second League,16,single league
+Europe,Northern Ireland,1,Premiership,12,12,FALSE,TRUE,FALSE,1,12,Premiership,12,single league
+Europe,Northern Ireland,2,Championship,12,12,FALSE,TRUE,FALSE,1,12,Championship,12,single league
+Europe,Northern Ireland,3,Premier Intermediate League,13,13,FALSE,TRUE,FALSE,1,13,Premier Intermediate League,13,single league
+Europe,Norway,1,Eliteserien,16,16,FALSE,TRUE,FALSE,1,16,Eliteserien,16,single league
+Europe,Norway,2,1. Division,16,16,FALSE,TRUE,FALSE,1,16,1. Division,16,single league
+Europe,Norway,3,2. Division,28,28,TRUE,FALSE,TRUE,2,"14,14",2. Division - Regional Division 1 | 2. Division - Regional Division 2,28,derived from dataset
+Europe,Norway,4,3. Division,84,84,TRUE,FALSE,TRUE,5,"17,17,17,17,16",3. Division - Regional Division 1 | 3. Division - Regional Division 2 | 3. Division - Regional Division 3 | 3. Division - Regional Division 4 | 3. Division - Regional Division 5,84,derived from dataset
+Europe,Poland,1,Ekstraklasa,18,18,FALSE,TRUE,FALSE,1,18,Ekstraklasa,18,single league
+Europe,Poland,2,I Liga,18,18,FALSE,TRUE,FALSE,1,18,I Liga,18,single league
+Europe,Poland,3,II Liga,18,18,FALSE,TRUE,FALSE,1,18,II Liga,18,single league
+Europe,Poland,4,III Liga,72,72,TRUE,FALSE,TRUE,4,"18,18,18,18",III Liga - Regional Division 1 | III Liga - Regional Division 2 | III Liga - Regional Division 3 | III Liga - Regional Division 4,72,derived from dataset
+Europe,Poland,5,IV Liga,281,281,TRUE,FALSE,TRUE,16,"18,18,18,18,18,18,18,18,18,17,17,17,17,17,17,17",Division 1 | Division 2 | Division 3 | Division 4 | Division 5 | Division 6 | Division 7 | Division 8 | Division 9 | Division 10 | Division 11 | Division 12 | Division 13 | Division 14 | Division 15 | Division 16,281,derived from dataset
+Europe,Portugal,1,Primeira Liga,18,18,FALSE,TRUE,FALSE,1,18,Primeira Liga,18,single league
+Europe,Portugal,2,Segunda Liga,18,18,FALSE,TRUE,FALSE,1,18,Segunda Liga,18,single league
+Europe,Portugal,3,Liga 3,20,20,FALSE,TRUE,FALSE,1,20,Liga 3,20,single league
+Europe,Portugal,4,Campeonato de Portugal Prio,56,56,TRUE,FALSE,TRUE,4,"14,14,14,14",Serie A | Serie B | Serie C | Serie D,56,wikipedia campeonato de portugal
+Europe,Ireland,1,Premier Division,10,10,FALSE,TRUE,FALSE,1,10,Premier Division,10,single league
+Europe,Ireland,2,First Division,10,10,FALSE,TRUE,FALSE,1,10,First Division,10,single league
+Europe,Ireland,3,Leinster Senior League,14,14,TRUE,TRUE,FALSE,2,"12,12",Leinster Senior League | Munster Senior League,24,derived from dataset
+Europe,Ireland,4,Munster Senior League,10,10,FALSE,TRUE,FALSE,1,10,Munster Senior League,10,single league
+Europe,Romania,1,Liga I,16,16,FALSE,TRUE,FALSE,1,16,Liga I,16,single league
+Europe,Romania,2,Liga II,22,22,FALSE,TRUE,FALSE,1,22,Liga II,22,single league
+Europe,Romania,3,Liga III,96,96,TRUE,FALSE,TRUE,10,"10,10,10,10,10,10,9,9,9,9",Liga III - Regional Division 1 | Liga III - Regional Division 2 | Liga III - Regional Division 3 | Liga III - Regional Division 4 | Liga III - Regional Division 5 | Liga III - Regional Division 6 | Liga III - Regional Division 7 | Liga III - Regional Division 8 | Liga III - Regional Division 9 | Liga III - Regional Division 10,96,derived from dataset
+Europe,Russia,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Europe,Russia,2,First League,18,18,FALSE,TRUE,FALSE,1,18,First League,18,single league
+Europe,Russia,3,Second League A,18,18,FALSE,TRUE,FALSE,1,18,Second League A,18,single league
+Europe,Russia,4,Second League B,59,59,TRUE,FALSE,TRUE,4,"15,15,15,14",Second League B - Regional Division 1 | Second League B - Regional Division 2 | Second League B - Regional Division 3 | Second League B - Regional Division 4,59,derived from dataset
+Europe,Russia,5,Third League,121,121,TRUE,FALSE,TRUE,7,"18,18,17,17,17,17,17",Third League - Regional Division 1 | Third League - Regional Division 2 | Third League - Regional Division 3 | Third League - Regional Division 4 | Third League - Regional Division 5 | Third League - Regional Division 6 | Third League - Regional Division 7,121,derived from dataset
+Europe,San Marino,1,Campionato,16,16,FALSE,TRUE,FALSE,1,16,Campionato,16,single league
+Europe,Scotland,1,Premiership,12,12,FALSE,TRUE,FALSE,1,12,Premiership,12,single league
+Europe,Scotland,2,Championship,10,10,FALSE,TRUE,FALSE,1,10,Championship,10,single league
+Europe,Scotland,3,League One,10,10,FALSE,TRUE,FALSE,1,10,League One,10,single league
+Europe,Scotland,4,League Two,10,10,FALSE,TRUE,FALSE,1,10,League Two,10,single league
+Europe,Scotland,5,Highland / Lowland,24,24,TRUE,FALSE,TRUE,2,"12,12",Highland League | Lowland League,24,derived from dataset
+Europe,Scotland,6,Regional Leagues,8,8,FALSE,TRUE,FALSE,1,8,Regional Leagues,8,single league
+Europe,Serbia,1,Super Liga,16,16,FALSE,TRUE,FALSE,1,16,Super Liga,16,single league
+Europe,Serbia,2,Prva Liga,16,16,FALSE,TRUE,FALSE,1,16,Prva Liga,16,single league
+Europe,Serbia,3,Srpska Liga,62,62,TRUE,FALSE,TRUE,4,"16,16,15,15",Srpska Liga - Regional Division 1 | Srpska Liga - Regional Division 2 | Srpska Liga - Regional Division 3 | Srpska Liga - Regional Division 4,62,derived from dataset
+Europe,Slovakia,1,1. liga,12,12,FALSE,TRUE,FALSE,1,12,1. liga,12,single league
+Europe,Slovakia,2,2. liga,16,16,FALSE,TRUE,FALSE,1,16,2. liga,16,single league
+Europe,Slovakia,3,3. liga,44,44,TRUE,FALSE,TRUE,3,"15,15,14",3. liga - Regional Division 1 | 3. liga - Regional Division 2 | 3. liga - Regional Division 3,44,derived from dataset
+Europe,Slovakia,4,4. liga,60,60,TRUE,FALSE,TRUE,4,"15,15,15,15",4. liga - Regional Division 1 | 4. liga - Regional Division 2 | 4. liga - Regional Division 3 | 4. liga - Regional Division 4,60,derived from dataset
+Europe,Slovenia,1,1. SNL,10,10,FALSE,TRUE,FALSE,1,10,1. SNL,10,single league
+Europe,Slovenia,2,2. SNL,16,16,FALSE,TRUE,FALSE,1,16,2. SNL,16,single league
+Europe,Slovenia,3,3. SNL,28,28,FALSE,TRUE,FALSE,1,28,3. SNL,28,single league
+Europe,Spain,1,Primera División,20,20,FALSE,TRUE,FALSE,1,20,Primera División,20,single league
+Europe,Spain,2,Segunda División,22,22,FALSE,TRUE,FALSE,1,22,Segunda División,22,single league
+Europe,Spain,3,Primera División RFEF,40,40,TRUE,FALSE,TRUE,2,"20,20",Group 1 | Group 2,40,wikipedia primera federacion
+Europe,Spain,4,Segunda División RFEF,90,90,TRUE,FALSE,TRUE,5,"18,18,18,18,18",Group 1 | Group 2 | Group 3 | Group 4 | Group 5,90,wikipedia segunda federacion
+Europe,Spain,5,Tercera División RFEF,324,324,TRUE,FALSE,TRUE,18,"18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18",Group 1 | Group 2 | Group 3 | Group 4 | Group 5 | Group 6 | Group 7 | Group 8 | Group 9 | Group 10 | Group 11 | Group 12 | Group 13 | Group 14 | Group 15 | Group 16 | Group 17 | Group 18,324,wikipedia tercera federacion
+Europe,Spain,6,Autonómicas,538,537,TRUE,FALSE,TRUE,30,"18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,17,17,17",Autonómicas - Regional Division 1 | Autonómicas - Regional Division 2 | Autonómicas - Regional Division 3 | Autonómicas - Regional Division 4 | Autonómicas - Regional Division 5 | Autonómicas - Regional Division 6 | Autonómicas - Regional Division 7 | Autonómicas - Regional Division 8 | Autonómicas - Regional Division 9 | Autonómicas - Regional Division 10 | Autonómicas - Regional Division 11 | Autonómicas - Regional Division 12 | Autonómicas - Regional Division 13 | Autonómicas - Regional Division 14 | Autonómicas - Regional Division 15 | Autonómicas - Regional Division 16 | Autonómicas - Regional Division 17 | Autonómicas - Regional Division 18 | Autonómicas - Regional Division 19 | Autonómicas - Regional Division 20 | Autonómicas - Regional Division 21 | Autonómicas - Regional Division 22 | Autonómicas - Regional Division 23 | Autonómicas - Regional Division 24 | Autonómicas - Regional Division 25 | Autonómicas - Regional Division 26 | Autonómicas - Regional Division 27 | Autonómicas - Regional Division 28 | Autonómicas - Regional Division 29 | Autonómicas - Regional Division 30,537,derived from dataset
+Europe,Sweden,1,Allsvenskan,16,16,FALSE,TRUE,FALSE,1,16,Allsvenskan,16,single league
+Europe,Sweden,2,Superettan,16,16,FALSE,TRUE,FALSE,1,16,Superettan,16,single league
+Europe,Sweden,3,Ettan,32,32,TRUE,FALSE,TRUE,2,"16,16",Ettan - Regional Division 1 | Ettan - Regional Division 2,32,derived from dataset
+Europe,Sweden,4,Division 2,32,32,TRUE,FALSE,TRUE,2,"16,16",Division 2 - Regional Division 1 | Division 2 - Regional Division 2,32,derived from dataset
+Europe,Switzerland,1,Super League,12,12,FALSE,TRUE,FALSE,1,12,Super League,12,single league
+Europe,Switzerland,2,Challenge League,10,10,FALSE,TRUE,FALSE,1,10,Challenge League,10,single league
+Europe,Switzerland,3,1. Liga Promotion,18,18,FALSE,TRUE,FALSE,1,18,1. Liga Promotion,18,single league
+Europe,Switzerland,4,1. Liga Classic,48,48,TRUE,FALSE,TRUE,3,"16,16,16",1. Liga Classic - Regional Division 1 | 1. Liga Classic - Regional Division 2 | 1. Liga Classic - Regional Division 3,48,derived from dataset
+Europe,Switzerland,5,2. Liga Interregional,70,70,TRUE,FALSE,TRUE,4,"18,18,17,17",2. Liga Interregional - Regional Division 1 | 2. Liga Interregional - Regional Division 2 | 2. Liga Interregional - Regional Division 3 | 2. Liga Interregional - Regional Division 4,70,derived from dataset
+Europe,Türkiye,1,Süper Lig,18,18,FALSE,TRUE,FALSE,1,18,Süper Lig,18,single league
+Europe,Türkiye,2,1. Lig,20,20,FALSE,TRUE,FALSE,1,20,1. Lig,20,single league
+Europe,Türkiye,3,2. Lig,37,37,TRUE,FALSE,TRUE,2,"19,18",2. Lig - Regional Division 1 | 2. Lig - Regional Division 2,37,derived from dataset
+Europe,Türkiye,4,3. Lig,64,64,TRUE,FALSE,TRUE,4,"16,16,16,16",3. Lig - Regional Division 1 | 3. Lig - Regional Division 2 | 3. Lig - Regional Division 3 | 3. Lig - Regional Division 4,64,derived from dataset
+Europe,Türkiye,5,Bölgesel Amatör Lig,144,144,TRUE,FALSE,TRUE,8,"18,18,18,18,18,18,18,18",Bölgesel Amatör Lig - Regional Division 1 | Bölgesel Amatör Lig - Regional Division 2 | Bölgesel Amatör Lig - Regional Division 3 | Bölgesel Amatör Lig - Regional Division 4 | Bölgesel Amatör Lig - Regional Division 5 | Bölgesel Amatör Lig - Regional Division 6 | Bölgesel Amatör Lig - Regional Division 7 | Bölgesel Amatör Lig - Regional Division 8,144,derived from dataset
+Europe,Ukraine,1,Premier League,16,16,FALSE,TRUE,FALSE,1,16,Premier League,16,single league
+Europe,Ukraine,2,Persha Liga,16,16,FALSE,TRUE,FALSE,1,16,Persha Liga,16,single league
+Europe,Ukraine,3,Druha Liga,22,22,FALSE,TRUE,FALSE,1,22,Druha Liga,22,single league
+Europe,Wales,1,Premier League,12,12,FALSE,TRUE,FALSE,1,12,Premier League,12,single league
+Europe,Wales,2,FAW Championship,32,32,FALSE,TRUE,FALSE,1,32,FAW Championship,32,single league
+N/C America,Antigua and Barbuda,1,Premier Division,12,12,FALSE,TRUE,FALSE,1,12,Premier Division,12,single league
+N/C America,Aruba,1,Division di Honor,10,10,FALSE,TRUE,FALSE,1,10,Division di Honor,10,single league
+N/C America,Barbados,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+N/C America,Belize,1,Premier League,7,7,FALSE,TRUE,FALSE,1,7,Premier League,7,single league
+N/C America,Bermuda,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+N/C America,British Virgin Islands,1,BVIFA National League,11,11,FALSE,TRUE,FALSE,1,11,BVIFA National League,11,single league
+N/C America,Canada,1,Canadian Premier League,8,8,FALSE,TRUE,FALSE,1,8,Canadian Premier League,8,single league
+N/C America,Canada,2,Canadian Regional Leagues,40,40,TRUE,TRUE,TRUE,4,"10,10,10,10",Group A | Group B | Group C | Group D,40,reformed from real life
+N/C America,Cayman Islands,1,CIFA Premier League,12,12,FALSE,TRUE,FALSE,1,12,CIFA Premier League,12,single league
+N/C America,Costa Rica,1,Primera División,10,10,FALSE,TRUE,FALSE,1,10,Primera División,10,single league
+N/C America,Costa Rica,2,Liga de Ascenso,18,18,FALSE,TRUE,FALSE,1,18,Liga de Ascenso,18,single league
+N/C America,Cuba,1,Primera Division,16,16,FALSE,TRUE,FALSE,1,16,Primera Division,16,single league
+N/C America,Dominica,1,DFA Premier League,10,10,FALSE,TRUE,FALSE,1,10,DFA Premier League,10,single league (added nation)
+N/C America,Dominican Republic,1,Liga Mayor,10,10,FALSE,TRUE,FALSE,1,10,Liga Mayor,10,single league
+N/C America,El Salvador,1,Primera Division,12,12,FALSE,TRUE,FALSE,1,12,Primera Division,12,single league
+N/C America,French Guiana,1,Régional 1,14,14,FALSE,TRUE,FALSE,1,14,Régional 1,14,single league
+N/C America,Grenada,1,Premier Division,10,10,FALSE,TRUE,FALSE,1,10,Premier Division,10,single league
+N/C America,Guadeloupe,1,Division d'Honneur,14,14,FALSE,TRUE,FALSE,1,14,Division d'Honneur,14,single league
+N/C America,Guatemala,1,Liga Nacional,12,12,FALSE,TRUE,FALSE,1,12,Liga Nacional,12,single league
+N/C America,Guatemala,2,Primera Division,20,20,FALSE,TRUE,FALSE,1,20,Primera Division,20,single league
+N/C America,Guyana,1,GFF Elite League,10,10,FALSE,TRUE,FALSE,1,10,GFF Elite League,10,single league
+N/C America,Haiti,1,Ligue Haïtienne,13,13,FALSE,TRUE,FALSE,1,13,Ligue Haïtienne,13,single league
+N/C America,Honduras,1,Liga Nacional,11,11,FALSE,TRUE,FALSE,1,11,Liga Nacional,11,single league
+N/C America,Jamaica,1,Premier League,14,14,FALSE,TRUE,FALSE,1,14,Premier League,14,single league
+N/C America,Martinique,1,Division d'Honneur,14,14,FALSE,TRUE,FALSE,1,14,Division d'Honneur,14,single league
+N/C America,Mexico,1,Liga MX,18,18,FALSE,TRUE,FALSE,1,18,Liga MX,18,single league
+N/C America,Mexico,2,Liga de Expansión MX,15,15,FALSE,TRUE,FALSE,1,15,Liga de Expansión MX,15,single league
+N/C America,Mexico,3,Liga Premier Serie A,41,41,TRUE,FALSE,TRUE,3,"14,14,13",Liga Premier Serie A - Regional Division 1 | Liga Premier Serie A - Regional Division 2 | Liga Premier Serie A - Regional Division 3,41,derived from dataset
+N/C America,Mexico,4,Liga Premier Serie B,10,10,FALSE,TRUE,FALSE,1,10,Liga Premier Serie B,10,single league
+N/C America,Mexico,5,Liga TDP,143,143,TRUE,FALSE,TRUE,8,"18,18,18,18,18,18,18,17",Liga TDP - Regional Division 1 | Liga TDP - Regional Division 2 | Liga TDP - Regional Division 3 | Liga TDP - Regional Division 4 | Liga TDP - Regional Division 5 | Liga TDP - Regional Division 6 | Liga TDP - Regional Division 7 | Liga TDP - Regional Division 8,143,derived from dataset
+N/C America,Nicaragua,1,Primera Division,10,10,FALSE,TRUE,FALSE,1,10,Primera Division,10,single league
+N/C America,Panama,1,LPF,12,12,FALSE,TRUE,FALSE,1,12,LPF,12,single league
+N/C America,Panama,2,Liga Prom,24,24,FALSE,TRUE,FALSE,1,24,Liga Prom,24,single league
+N/C America,Puerto Rico,1,Liga Puerto Rico,10,10,FALSE,TRUE,FALSE,1,10,Liga Puerto Rico,10,single league
+N/C America,St. Kitts and Nevis,1,Premier League,10,10,FALSE,TRUE,FALSE,1,10,Premier League,10,single league
+N/C America,Suriname,1,Suriname Major League,9,9,FALSE,TRUE,FALSE,1,9,Suriname Major League,9,single league
+N/C America,Trinidad and Tobago,1,TT Premier League,12,12,FALSE,TRUE,FALSE,1,12,TT Premier League,12,single league
+N/C America,Trinidad and Tobago,2,TT Premier League 2,20,20,FALSE,TRUE,FALSE,1,20,TT Premier League 2,20,single league
+N/C America,Turks and Caicos Islands,1,Premier League,8,8,FALSE,TRUE,FALSE,1,8,Premier League,8,single league
+N/C America,USA,1,MLS,30,30,FALSE,TRUE,FALSE,1,30,MLS,30,single league
+N/C America,USA,2,USL Championship,25,25,FALSE,TRUE,FALSE,1,25,USL Championship,25,single league
+N/C America,USA,3,USL League One,14,14,FALSE,TRUE,FALSE,1,14,USL League One,14,single league
+N/C America,USA,4,MLS Next Pro,30,30,FALSE,TRUE,FALSE,1,30,MLS Next Pro,30,single league
+N/C America,USA,5,NPSL,74,74,TRUE,FALSE,TRUE,5,"15,15,15,15,14",NPSL - Regional Division 1 | NPSL - Regional Division 2 | NPSL - Regional Division 3 | NPSL - Regional Division 4 | NPSL - Regional Division 5,74,derived from dataset
+N/C America,USA,6,USL League Two,142,142,TRUE,FALSE,TRUE,8,"18,18,18,18,18,18,17,17",USL League Two - Regional Division 1 | USL League Two - Regional Division 2 | USL League Two - Regional Division 3 | USL League Two - Regional Division 4 | USL League Two - Regional Division 5 | USL League Two - Regional Division 6 | USL League Two - Regional Division 7 | USL League Two - Regional Division 8,142,derived from dataset
+Oceania,Vanuatu,1,PVFA Super League,6,6,FALSE,TRUE,FALSE,1,6,DFA Premier League,6,single league (added nation)
+Oceania,Fiji,1,National Football League,10,10,FALSE,TRUE,FALSE,1,10,National Football League,10,single league
+Oceania,New Caledonia,1,Super Ligue,10,10,FALSE,TRUE,FALSE,1,10,Super Ligue,10,single league
+Oceania,New Zealand,1,National League,32,32,FALSE,TRUE,FALSE,1,32,National League,32,single league
+Oceania,Papua New Guinea,1,National Soccer League,11,11,FALSE,TRUE,FALSE,1,11,National Soccer League,11,single league
+Oceania,Solomon Islands,1,S-League,11,11,FALSE,TRUE,FALSE,1,11,S-League,11,single league
+Oceania,Tahiti,1,Ligue 1,11,11,FALSE,TRUE,FALSE,1,11,Ligue 1,11,single league
+South America,Argentina,1,Liga Profesional Argentina,30,30,TRUE,FALSE,TRUE,2,"15,15",Liga Profesional Argentina - Regional Division 1 | Liga Profesional Argentina - Regional Division 2,30,derived from dataset
+South America,Argentina,2,Primera Nacional,34,34,TRUE,FALSE,TRUE,2,"17,17",Primera Nacional - Regional Division 1 | Primera Nacional - Regional Division 2,34,derived from dataset
+South America,Argentina,3,Torneo Federal A,36,36,TRUE,FALSE,TRUE,2,"18,18",Torneo Federal A - Regional Division 1 | Torneo Federal A - Regional Division 2,36,derived from dataset
+South America,Argentina,4,Prim B Metro,22,22,FALSE,TRUE,FALSE,1,22,Prim B Metro,22,single league
+South America,Argentina,5,Torneo Regional Federal Amateur,332,332,TRUE,FALSE,TRUE,18,"19,19,19,19,19,19,19,19,18,18,18,18,18,18,18,18,18,18",Torneo Regional Federal Amateur - Regional Division 1 | Torneo Regional Federal Amateur - Regional Division 2 | Torneo Regional Federal Amateur - Regional Division 3 | Torneo Regional Federal Amateur - Regional Division 4 | Torneo Regional Federal Amateur - Regional Division 5 | Torneo Regional Federal Amateur - Regional Division 6 | Torneo Regional Federal Amateur - Regional Division 7 | Torneo Regional Federal Amateur - Regional Division 8 | Torneo Regional Federal Amateur - Regional Division 9 | Torneo Regional Federal Amateur - Regional Division 10 | Torneo Regional Federal Amateur - Regional Division 11 | Torneo Regional Federal Amateur - Regional Division 12 | Torneo Regional Federal Amateur - Regional Division 13 | Torneo Regional Federal Amateur - Regional Division 14 | Torneo Regional Federal Amateur - Regional Division 15 | Torneo Regional Federal Amateur - Regional Division 16 | Torneo Regional Federal Amateur - Regional Division 17 | Torneo Regional Federal Amateur - Regional Division 18,332,derived from dataset
+South America,Argentina,6,Primera C,28,28,FALSE,TRUE,FALSE,1,28,Primera C,28,single league
+South America,Argentina,7,Torneo Promocional Amateur,11,11,FALSE,TRUE,FALSE,1,11,Torneo Promocional Amateur,11,single league
+South America,Bolivia,1,Primera División,16,16,FALSE,TRUE,FALSE,1,16,Primera División,16,single league
+South America,Bolivia,2,Nacional B,24,24,FALSE,TRUE,FALSE,1,24,Nacional B,24,single league
+South America,Brazil,1,Serie A,16,16,FALSE,TRUE,FALSE,1,16,Serie A,16,single league
+South America,Brazil,2,Serie B,20,20,FALSE,TRUE,FALSE,1,20,Serie B,20,single league
+South America,Brazil,3,Serie C,20,20,FALSE,TRUE,FALSE,1,20,Serie C,20,single league
+South America,Brazil,4,Serie D,64,64,TRUE,FALSE,TRUE,8,"8,8,8,8,8,8,8,8",Group A1 | Group A2 | Group A3 | Group A4 | Group A5 | Group A6 | Group A7 | Group A8,64,wikipedia serie d format
+South America,Chile,1,Primera División,16,16,FALSE,TRUE,FALSE,1,16,Primera División,16,single league
+South America,Chile,2,Primera B,15,15,FALSE,TRUE,FALSE,1,15,Primera B,15,single league
+South America,Chile,3,Segunda División,13,13,FALSE,TRUE,FALSE,1,13,Segunda División,13,single league
+South America,Chile,4,Tercera A,15,15,FALSE,TRUE,FALSE,1,15,Tercera A,15,single league
+South America,Colombia,1,Primera A,20,20,FALSE,TRUE,FALSE,1,20,Primera A,20,single league
+South America,Colombia,2,Primera B,16,16,FALSE,TRUE,FALSE,1,16,Primera B,16,single league
+South America,Ecuador,1,Liga Pro,16,16,FALSE,TRUE,FALSE,1,16,Liga Pro,16,single league
+South America,Ecuador,2,Liga Pro Serie B,12,12,FALSE,TRUE,FALSE,1,12,Liga Pro Serie B,12,single league
+South America,Paraguay,1,Division Profesional,12,12,FALSE,TRUE,FALSE,1,12,Division Profesional,12,single league
+South America,Paraguay,2,Division Intermedia,14,14,FALSE,TRUE,FALSE,1,14,Division Intermedia,14,single league
+South America,Peru,1,Liga 3,37,37,TRUE,FALSE,TRUE,2,"19,18",Liga 3 - Regional Division 1 | Liga 3 - Regional Division 2,37,derived from dataset
+South America,Peru,2,Liga 2,15,15,FALSE,TRUE,FALSE,1,15,Liga 2,15,single league
+South America,Uruguay,1,Liga AUF,16,16,FALSE,TRUE,FALSE,1,16,Liga AUF,16,single league
+South America,Uruguay,2,Segunda División,11,11,FALSE,TRUE,FALSE,1,11,Segunda División,11,single league
+South America,Uruguay,3,Primera Divisional C,27,27,FALSE,TRUE,FALSE,1,27,Primera Divisional C,27,single league
+South America,Venezuela,1,Primera División,14,14,FALSE,TRUE,FALSE,1,14,Primera División,14,single league
+South America,Venezuela,2,Segunda División,15,15,FALSE,TRUE,FALSE,1,15,Segunda División,15,single league
+N/C America,Saint Vincent & Grenadines,1,Vincy Premier League,10,10,FALSE,TRUE,FALSE,1,10,Vincy Premier League,10,single league (added nation)

@@ -1,0 +1,13 @@
+# Java build output
+out/
+target/
+*.class
+*.jar
+
+# OS / IDE noise
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

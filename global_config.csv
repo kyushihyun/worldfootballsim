@@ -1,0 +1,124 @@
+parameter_category,parameter_name,current_value,description,min_value,max_value
+scheduling,domestic_league_weeks_start,2,Starting week for domestic league matches,1,10
+scheduling,domestic_league_weeks_end,39,Ending week for domestic league matches,30,50
+scheduling,slot_step,0.5,Match slot scheduling granularity,0.1,1
+scheduling,rollover_threshold,52,Total weeks in a season,40,60
+scheduling,min_league_size,10,Minimum clubs required in a league,6,20
+,,,,,
+feature_flags,enable_domestic_cups,TRUE,Enable domestic cup competitions,FALSE,TRUE
+feature_flags,enable_continental,TRUE,Enable continental competitions,FALSE,TRUE
+feature_flags,enable_global,FALSE,Enable global club cup tournament,FALSE,TRUE
+feature_flags,enable_parity_tuning,TRUE,Enable parity-based rating adjustments,FALSE,TRUE
+,,,,,
+financial,wage_cap_tier1,0.8,Wage bill cap as % of revenue for Tier 1,0.5,0.9
+financial,wage_cap_tier2,0.6,Wage bill cap as % of revenue for Tier 2,0.4,0.8
+financial,wage_cap_tier3,0.55,Wage bill cap as % of revenue for Tier 3,0.35,0.75
+financial,wage_cap_tier4,0.5,Wage bill cap as % of revenue for Tier 4,0.3,0.7
+financial,wage_cap_tier5plus,0.4,Wage bill cap as % of revenue for Tier 5+,0.3,0.7
+financial,financial_drop_threshold,27.5,Minimum wage budget threshold,10,50
+financial,minimum_wage_multiplier_tier1,1.5,Minimum wage multiplier for Tier 1,1,2
+financial,minimum_wage_multiplier_tier2,1.2,Minimum wage multiplier for Tier 2,0.8,1.5
+financial,minimum_wage_multiplier_tier3,0.8,Minimum wage multiplier for Tier 3,0.6,1.2
+financial,minimum_wage_multiplier_tier4,0.6,Minimum wage multiplier for Tier 4,0.4,1
+financial,minimum_wage_multiplier_tier5plus,0.5,Minimum wage multiplier for Tier 5+,0.3,0.8
+,,,,,
+strength_mechanics,squad_strength_current_weight,0.6,Weight of current squad in strength calc,0.3,0.8
+strength_mechanics,squad_strength_inertia_weight,0.15,Weight of historical inertia in strength calc,0.05,0.4
+strength_mechanics,squad_strength_elo_weight,0.25,Weight of ELO feedback in strength calc,0.05,0.35
+strength_mechanics,tier1_skill_floor,45,Minimum strength rating for Tier 1,40,70
+strength_mechanics,tier2_skill_floor,35,Minimum strength rating for Tier 2,20,50
+strength_mechanics,tier3_skill_floor,25,Minimum strength rating for Tier 3,15,40
+strength_mechanics,tier4_skill_floor,18,Minimum strength rating for Tier 4,10,30
+strength_mechanics,tier5plus_skill_floor,15,Minimum strength rating for Tier 5+,8,25
+strength_mechanics,relegation_penalty_cohesion_threshold,52.5,Cohesion threshold for relegation penalty,20,80
+strength_mechanics,relegation_penalty_exponential_factor,1.6,Exponent for relegation penalty calculation,1,3
+,,,,,
+rating,elo_k_factor_high,32,K-factor for high-rated teams,16,64
+rating,elo_k_factor_low,26,K-factor for low-rated teams,8,40
+rating,elo_home_advantage,0.4,ELO points added for home advantage,0.1,1
+rating,elo_upset_bonus,0.7,ELO bonus multiplier for unexpected wins,0.1,1
+,,,,,
+parity_tuning,parity_ppg_gap_threshold,0.28,Points-per-game gap triggering parity adjustments,0.15,0.5
+parity_tuning,parity_top_clubs_count,4,Number of top clubs to adjust for parity,2,6
+parity_tuning,parity_bottom_clubs_count,4,Number of bottom clubs to adjust for parity,2,6
+parity_tuning,parity_strength_shift_min,0.6,Minimum strength shift for parity,0.2,1
+parity_tuning,parity_strength_shift_max,2.8,Maximum strength shift for parity,1,5
+parity_tuning,parity_finance_shift_min,0.8,Minimum finance shift for parity,0.3,1.5
+parity_tuning,parity_finance_shift_max,3,Maximum finance shift for parity,1,5
+parity_tuning,parity_morale_shift_min,1.2,Minimum morale shift for parity,0.5,2
+parity_tuning,parity_morale_shift_max,4,Maximum morale shift for parity,1.5,6
+parity_tuning,parity_ppg_gap_multiplier,3.4,Strength gap PPG multiplier,1,5
+parity_tuning,parity_finance_gap_multiplier,3,Finance gap PPG multiplier,1,5
+parity_tuning,parity_morale_gap_multiplier,4,Morale gap PPG multiplier,1,6
+,,,,,
+revenue,base_revenue_tier1,12,Base revenue for Tier 1 clubs,5,20
+revenue,base_revenue_tier2,8,Base revenue for Tier 2 clubs,3,12
+revenue,base_revenue_tier3,5,Base revenue for Tier 3 clubs,1.5,7
+revenue,base_revenue_tier4,3,Base revenue for Tier 4 clubs,1,4
+revenue,base_revenue_tier5plus,1.5,Base revenue for Tier 5+ clubs,0.5,2
+revenue,performance_bonus_multiplier,0.175,Multiplier for seasonal performance revenue,0.05,0.3
+revenue,facility_quality_multiplier,1,Multiplier for facility quality effect,0.8,1.8
+revenue,domestic_cup_bonus,0.5,Revenue bonus for cup competition participation,0.2,1
+revenue,continental_bonus_tier1,7,Revenue bonus for continental participation (Tier 1),1,8
+revenue,continental_bonus_tier2,4,Revenue bonus for continental participation (Tier 2),0.5,6
+revenue,continental_bonus_tier3,2,Revenue bonus for continental participation (Tier 3),0.3,4
+,,,,,
+match_engine,upset_probability,0.15,Base probability of upset outcome,0.05,0.3
+match_engine,draw_probability,0.15,Base probability of draw,0.1,0.4
+match_engine,home_advantage_goals,0.225,Goal advantage from home field,0.1,0.7
+match_engine,injury_rate,0.05,Injury rate per match,0.01,0.15
+match_engine,red_card_rate,0.02,Red card rate per match,0.005,0.05
+,,,,,
+transfer,summer_budget_multiplier,1.5,Budget available in summer transfer window,0.5,2
+transfer,winter_budget_multiplier,0.5,Budget available in winter transfer window,0.1,0.8
+transfer,young_player_pool_size,75,Number of young players generated per country,20,100
+transfer,development_rate,0.08,Annual rating improvement for young players,0.02,0.2
+transfer,injury_recovery_days,15,Average days to recover from injury,7,30
+transfer,player_retirement_age,37,Age at which players retire,32,40
+transfer,peak_performance_age,28,Age of peak performance,24,30
+transfer,transfer_fee_multiplier,1.5,Multiplier for transfer fee calculations,0.5,2
+transfer,player_wage_growth_rate,0.05,Annual wage growth for established players,0.02,0.1
+transfer,young_player_wage_multiplier,0.5,Wage multiplier for young players vs peak,0.3,0.8
+,,,,,
+infrastructure,facility_improvement_rate,0.015,Annual facility quality improvement,0.005,0.05
+infrastructure,stadium_capacity_min,5000,Minimum stadium capacity,1000,20000
+infrastructure,stadium_capacity_max,100000,Maximum stadium capacity,50000,200000
+,,,,,
+match_engine,home_advantage_multiplier,1.045,Home advantage strength boost multiplier,1.01,1.1
+match_engine,continental_elo_k,22,K-factor for continental matches,8,32
+match_engine,league_elo_k,16,K-factor for domestic league matches,8,32
+match_engine,cup_elo_k,11,K-factor for domestic cup/supercup matches,5,20
+match_engine,match_odds_scale,0.3,Tanh scaling factor for match outcome odds,0.3,1
+match_engine,home_expected_goals_floor,0.35,Home team expected goals floor,0.1,0.5
+match_engine,home_expected_goals_ceiling,5,Home team expected goals ceiling,2,5
+match_engine,away_expected_goals_floor,0.35,Away team expected goals floor,0.1,0.5
+match_engine,away_expected_goals_ceiling,5,Away team expected goals ceiling,2,5
+match_engine,max_goals_sample,10,Maximum goals in sampled distribution,5,12
+match_engine,goal_damping_factor,0.792,Damping factor for goal sample noise,0.5,1
+match_engine,rare_goal_boost_chance,0.02,Rare high-scoring boost probability per match,0.005,0.05
+,,,,,
+club_evolution,base_generation_cycle,6,Baseline generation cycle in years,5,15
+club_evolution,generation_cycle_variance,10,Generation cycle variance (random add),5,20
+club_evolution,min_squad_depth_players,14,Squad depth player range minimum,10,20
+club_evolution,max_squad_depth_players,36,Squad depth player range maximum,25,50
+,,,,,
+coefficient,coefficient_history_size,5,Number of seasons in rolling coefficient window,3,8
+coefficient,coefficient_min,3,Coefficient initialization minimum value,1,10
+coefficient,coefficient_max,40,Coefficient initialization maximum value,20,100
+coefficient,coefficient_elo_base,800,Coefficient conversion formula ELO base,600,1000
+coefficient,coefficient_elo_divisor,25,Coefficient conversion formula ELO divisor,15,50
+,,,,,
+calendar,domestic_supercup_week,1,Domestic supercup week,0,5
+calendar,confed_supercup_week,47,Confederation supercup week,40,52
+calendar,mid_season_transfer_week,20,Transfer window close-off week in mid-season,15,25
+calendar,winter_transfer_start,25,Winter transfer window start week,23,27
+calendar,winter_transfer_end,26,Winter transfer window end week,26,30
+,,,,,
+injury,base_injury_chance,0.02,Baseline injury probability per match,0.01,0.05
+injury,injury_recovery_weeks,3,Injury recovery time in weeks (average),1,6
+injury,max_concurrent_injury_rate,0.15,Maximum concurrent injuries per club (as % of squad),0.05,0.3
+,,,,,
+ffp,wage_cap_percent,0.65,Maximum weekly wage commitment as % of revenue,0.4,0.9
+ffp,ffp_repeat_offense_multiplier,1.75,FFP violation severity multiplier for repeated offenses,1,3
+,,,,,
+wage,wage_inflation_rate,0.045,Wage inflation rate per season,0.01,0.15
